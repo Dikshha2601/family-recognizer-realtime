@@ -1,0 +1,15 @@
+.heading {
+  width: 100%;
+  margin: 0px;
+  font-size: 23px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.model_objects {
+  float: none;
+  color: #000;
+  background-color: white;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
