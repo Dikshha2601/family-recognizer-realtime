@@ -1,1 +1,1 @@
-//teachable machine link: https://teachablemachine.withgoogle.com/models/bUHyOKiqB/model.json
+//Teachable machine link: https://teachablemachine.withgoogle.com/models/KXzIZNJS8/model.json
